@@ -1,4 +1,4 @@
-# Interactive_Programming
+# Interactive Programming
 
 Study of Python programming language through the coding of interactive applications.
 
